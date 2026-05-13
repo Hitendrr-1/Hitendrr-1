@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hitendra Jatav<br>MERN Stack Developer | React.js & Node.js Developer<br>Gwalior, Madhya Pradesh, India | +91 9516631359 | its.hitendrr@gmail.com<br>LinkedIn: http://www.linkedin.com/in/hitendrr| GitHub: https://github.com/Hitendrr-1<br>Professional Summary<br>Final-year B.Tech Computer Science student skilled in MERN stack development with experience building responsive full-stack web applications using React.js, Node.js, Express.js, and MongoDB. Strong understanding of REST APIs, authentication, CRUD operations, deployment workflows, and responsive web design.<br>Technical Skills<br>Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap<br>Backend: Node.js, Express.js, REST APIs<br>Database: MongoDB, Mongoose, MongoDB Atlas<br>Tools & Platforms: Git, GitHub, VS Code, Postman, Render, Netlify, Cloudinary<br>Core Concepts: Authentication, Authorization, MVC Architecture, CRUD Operations, Middleware, Responsive Design, API Integration<br>Programming: Java <br>Projects<br>WanderLust – Full-Stack Travel Booking Platform<br>Tech Stack: Node.js, Express.js, MongoDB, EJS, Bootstrap, Cloudinary<br>•	Built a full-stack travel booking platform with authentication, authorization, reviews, wishlist, and booking features.<br>•	Implemented CRUD operations, REST APIs, and Cloudinary image uploads using MongoDB Atlas.<br>•	Developed responsive UI and deployed the application on Render.<br>Live Demo: https://wanderlust-lxot.onrender.com | GitHub: https://github.com/Hitendrr-1/Wanderlust<br>E-Commerce Web App<br>Tech Stack: HTML, CSS, JavaScript<br>•	Developed a responsive e-commerce web application with product listing, filtering, and cart functionality.<br>•	Implemented dynamic UI interactions and responsive layouts for better user experience.<br>Portfolio Website<br>Tech Stack: HTML, CSS, JavaScript<br>•	Built and deployed a responsive developer portfolio website showcasing projects and technical skills.<br>•	Focused on accessibility, clean UI design, and mobile responsiveness.<br>Education<br>B.Tech – Computer Science Engineering<br>MPCT College, Gwalior | 2022 – 2026<br>Higher Secondary (PCM)<br>Adarsh Vidhya Mandir HS School | 2021 – 2022<br>Certifications<br>•	HTML Certification (92%) – Knowledge Gate |  Issued Mar 15 2026<br>•	CSS Certification (76%) – Knowledge Gate |  Issued Mar 22 2026 (Issued by Sanchit Jain, Founder & CEO, Knowledge Gate)<br>
 
-<!--
-**Hitendrr-1/Hitendrr-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_hitendrr_unique_boy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/hitendrr) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Hitendrr-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Hitendrr-1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hitendrr-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Hitendrr-1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
